@@ -1,6 +1,6 @@
 package binaryoperator;
 
-public class Aritmatika {
+public class aritmatika {
     public static void main(String[] args) {
         int operand1 = 20;
         int operand2 = 4;
